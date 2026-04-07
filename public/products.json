@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "AI Code Assistant",
+    "description": "Write, debug, and optimize code faster with an intelligent AI coding companion.",
+    "price": 35,
+    "period": "Mo",
+    "tag": "Hot",
+    "tagType": "hot",
+    "features": [
+      "Multi-language support",
+      "Auto bug detection",
+      "Code suggestions"
+    ],
+    "icon": "code.png"
+  },
+  {
+    "id": 2,
+    "name": "Video Editing Suite",
+    "description": "Professional video editing tools with transitions, effects, and templates.",
+    "price": 59,
+    "period": "One-Time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "4K export",
+      "100+ effects",
+      "Drag & drop editor"
+    ],
+    "icon": "video-edit.png"
+  },
+  {
+    "id": 3,
+    "name": "UI/UX Design Kit",
+    "description": "Complete UI/UX resource pack with wireframes, components, and design systems.",
+    "price": 25,
+    "period": "Mo",
+    "tag": "Trending",
+    "tagType": "best",
+    "features": [
+      "1000+ UI components",
+      "Figma compatible",
+      "Design system included"
+    ],
+    "icon": "ui-kit.png"
+  },
+  {
+    "id": 4,
+    "name": "SEO Booster Tool",
+    "description": "Improve your website ranking with advanced SEO analytics and keyword tracking.",
+    "price": 45,
+    "period": "Mo",
+    "tag": "Best Seller",
+    "tagType": "best",
+    "features": [
+      "Keyword research",
+      "Site audit",
+      "Competitor analysis"
+    ],
+    "icon": "seo.png"
+  },
+  {
+    "id": 5,
+    "name": "Online Course Builder",
+    "description": "Create and sell online courses بسهولة with built-in LMS features.",
+    "price": 69,
+    "period": "Mo",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "Course hosting",
+      "Student analytics",
+      "Payment integration"
+    ],
+    "icon": "course.png"
+  },
+  {
+    "id": 6,
+    "name": "Email Marketing Pro",
+    "description": "Launch powerful email campaigns with automation and high-converting templates.",
+    "price": 29,
+    "period": "Mo",
+    "tag": "Hot Deal",
+    "tagType": "hot",
+    "features": [
+      "Automation workflows",
+      "100+ templates",
+      "Real-time analytics"
+    ],
+    "icon": "email.png"
+  }
+]
