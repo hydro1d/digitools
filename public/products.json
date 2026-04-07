@@ -12,7 +12,7 @@
       "Auto bug detection",
       "Code suggestions"
     ],
-    "icon": "code.png"
+    "icon": "writing_2327400 1.png"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
       "100+ effects",
       "Drag & drop editor"
     ],
-    "icon": "video-edit.png"
+    "icon": "design-tool.png"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
       "Figma compatible",
       "Design system included"
     ],
-    "icon": "ui-kit.png"
+    "icon": "portfolio.png"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
       "Site audit",
       "Competitor analysis"
     ],
-    "icon": "seo.png"
+    "icon": "operation.png"
   },
   {
     "id": 5,
@@ -72,7 +72,7 @@
       "Student analytics",
       "Payment integration"
     ],
-    "icon": "course.png"
+    "icon": "portfolio.png"
   },
   {
     "id": 6,
@@ -87,6 +87,6 @@
       "100+ templates",
       "Real-time analytics"
     ],
-    "icon": "email.png"
+    "icon": "social-media.png"
   }
 ]
